@@ -1,0 +1,14 @@
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\bin\Debug\spexalolabyrinto.exe.config
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\bin\Debug\spexalolabyrinto.exe
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\bin\Debug\spexalolabyrinto.pdb
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\bin\Debug\spexalolabyrinto.xml
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.control.resources
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.Explorer1.resources
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.Form1.resources
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.Form2.resources
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.Resources.resources
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.vbproj.GenerateResource.Cache
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.exe
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.xml
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.pdb
+H:\programmieren\alte programme\spexalolabyrinto\spexalolabyrinto\obj\x86\Debug\spexalolabyrinto.vbprojResolveAssemblyReference.cache

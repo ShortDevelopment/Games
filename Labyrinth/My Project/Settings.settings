@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Leben" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="User1__" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Label1</Value>
+    </Setting>
+    <Setting Name="User2__" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Label2</Value>
+    </Setting>
+    <Setting Name="Gast1__" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Label3</Value>
+    </Setting>
+    <Setting Name="User1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Label1</Value>
+    </Setting>
+    <Setting Name="User2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Label2</Value>
+    </Setting>
+    <Setting Name="Gast1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Label3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
